@@ -8,8 +8,13 @@ Bash (any terminal with Git, Bash and mySQL commands)
 
 
 ## Instructions
-git clone https://github.com/DavidWaldholm/dbSlutprojektITHS  
+mkdir dbSlutprojektITHS  
 cd dbSlutprojektITHS  
+
+git init  
+git clone https://github.com/DavidWaldholm/dbSlutprojektITHS  
+
+ 
 
 curl -L  https://gist.github.com/miwashiab/e39a3228f0b389b6f3eca1b8c613bb2e/raw/db.sql -o db.sql  
 
@@ -40,5 +45,12 @@ exit
 
 exit
 
-gradle run
+gradle run  
 
+## Result  
+If everything is working properly your terminal should print out this when typing "gradle run"  
+
+
+<img src="resultPageOne.jpg" width="100" height="300">  
+<img src="resultPageTwo.jpg" width="100" height="50">  
+<img src="resultPageThree.jpg" width="150" height="300">  
