@@ -1,13 +1,13 @@
 # dbSlutprojektITHS
-##Description
+## Description
 This project is about running a SQL-script that will organize a .csv table into a readable list  
 
-##Requirements
+## Requirements
 Docker desktop (what i use)  
 Bash (any terminal with Git, Bash and mySQL commands)  
 
 
-##Instructions
+## Instructions
 git clone https://github.com/DavidWaldholm/dbSlutprojektITHS  
 cd dbSlutprojektITHS  
 
