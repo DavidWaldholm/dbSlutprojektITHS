@@ -51,6 +51,6 @@ gradle run
 If everything is working properly your terminal should print out this when typing "gradle run"  
 
 
-<img src="resultPageOne.jpg" width="100" height="300">  
-<img src="resultPageTwo.jpg" width="100" height="50">  
-<img src="resultPageThree.jpg" width="150" height="300">  
+<img src="resultPageOne.jpg" width="200" height="300">
+<img src="resultPageTwo.jpg" width="200" height="50">
+<img src="resultPageThree.jpg" width="300" height="300">
